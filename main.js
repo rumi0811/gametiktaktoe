@@ -1,3 +1,3 @@
-function(){
-    const tictactoeGame = new TicTacToe();
-}
+(function () {
+    const tictactoeGame = new TicTacToe('.game-arena');
+}())
